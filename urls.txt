@@ -21,5 +21,27 @@
       "https://vimeos.net/embed-woptqizvlzxi.html"
     ],
     "METODO": "AUTOMATICO"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 3170,
+    "ID_VIDEO": "woptqizvlzxi",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Bambi",
+    "FECHA": "1942-08-14",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/90Shq6yU7vqXskmZbX2AEf57ddy.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/rKgqYwlpU32ZO9UTCuXNdhdnU4B.jpg",
+    "GENERO": "Animación, Drama, Familia",
+    "RATING": 7.015,
+    "DURACION": 70,
+    "FRASE_PROMOCIONAL": "Un gran historia de amor.",
+    "SINOPSIS": "Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de patinar sobre el lago helado, de mordisquear las florecillas y de juguetear entre los árboles del bosque será sólo el principio de un largo aprendizaje. Guiado por su sabio amigo el Búho, Bambi aprenderá lecciones sobre el valor del amor, la pérdida de los seres queridos, la madurez; en definitiva, aprenderá a seguir el camino de la vida.",
+    "ACTORES": "  • Donnie Dunagan (Young Bambi (voice) (uncredited))\n  • Peter Behn (Young Thumper (voice) (uncredited))\n  • Stan Alexander (Young Flower (voice) (uncredited))\n  • Cammie King (Young Faline (voice) (uncredited))\n  • Will Wright (Friend Owl (voice) (uncredited))",
+    "DIRECTOR": "David Hand",
+    "TRAILER": "No disponible",
+    "URLS": [
+      "https://vimeos.net/embed-woptqizvlzxi.html"
+    ],
+    "METODO": "AUTOMATICO"
   }
 ]
