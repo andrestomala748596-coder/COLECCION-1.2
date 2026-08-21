@@ -9428,5 +9428,27 @@
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
     ],
     "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=rA-MduAp0tB9XemL1JQ8ew&expires=1787366871"
+  },
+  {
+    "CATEGORIA": "GENERAL",
+    "TMDB_ID": 1084244,
+    "ID_VIDEO": "q0siugndjwh2",
+    "PLATAFORMA": "Vimeos",
+    "TITULO": "Toy Story 5",
+    "FECHA": "2026-06-17",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+    "GENERO": "Animación, Familia, Comedia, Aventura",
+    "RATING": 8.018,
+    "DURACION": 102,
+    "FRASE_PROMOCIONAL": "Se activó.",
+    "SINOPSIS": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+    "ACTORES": "  • Joan Cusack (Jessie (voice))\n  • Tom Hanks (Woody (voice))\n  • Tim Allen (Buzz Lightyear (voice))\n  • Conan O'Brien (Smarty Pants (voice))\n  • Scarlett Spears (Bonnie (voice))",
+    "DIRECTOR": "Andrew Stanton",
+    "TRAILER": "https://youtube.com/watch?v=DW8GC9SQ9Xw",
+    "URLS": [
+      "https://vimeos.net/embed-q0siugndjwh2.html"
+    ],
+    "METODO": "AUTOMATICO"
   }
 ]
