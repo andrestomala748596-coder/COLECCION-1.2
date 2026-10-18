@@ -19,10 +19,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/antz-1998-latino-AYrRlgadTVZJ7rdP"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=SqBFhrJC-wHFZkBQxiDykg&expires=1792346892",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3723176.2690432.1.0.1.1?md5=SqBFhrJC-wHFZkBQxiDykg&expires=1792346892"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -770,10 +768,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigiel-cascanueces-y-los-cuatro-PhkBeRx7ciH7Ar3F"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=w_m4M4HpgUTMcAOMHRbG7Q&expires=1792348198",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/360p/8.2922036.2521096.1.0.1.1?md5=w_m4M4HpgUTMcAOMHRbG7Q&expires=1792348198"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3726,10 +3722,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/wish-el-poder-de-los-FLBZA5IfpTPqCisq"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=mZ_8Y84xcA5_ZvKpYNes-w&expires=1792348212",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3292847.2544586.1.0.1.1?md5=mZ_8Y84xcA5_ZvKpYNes-w&expires=1792348212"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3751,10 +3745,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/tron-legacy-dan-VRz6rBHcfqVlqqgg"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=L2c3GbpSxhJ2q2Qye1ELmA&expires=1792348230",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3179649.2544586.1.0.1.1?md5=L2c3GbpSxhJ2q2Qye1ELmA&expires=1792348230"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3776,10 +3768,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/raya-y-el-ultimo-dragon-gtjyx0xrv0Jd1NNN"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=mM9HDm69gGR2XSkpC20Pqg&expires=1792348233",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w720p/8.3081102.2544586.1.0.1.1?md5=mM9HDm69gGR2XSkpC20Pqg&expires=1792348233"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3801,10 +3791,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-2-el-retorno-de-qe6e2othPRJzl3T5"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=SejBzO8-d7Kmzpgy-jvLMQ&expires=1792348294",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w480p/8.3523723.2597927.1.0.1.1?md5=SejBzO8-d7Kmzpgy-jvLMQ&expires=1792348294"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3826,10 +3814,8 @@
     "URLS": [
       "https://videa.hu/videok/film-animacio/gigialaddin-1992-latino-yXjipIfywPjCLS6N"
     ],
-    "URL_DIRECTA": "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=Fvat50ZOuq-ltgVB3bEKfg&expires=1792348298",
-    "URLS_DIRECTAS": [
-      "https://videa.hu/static/w1080p/8.3523727.2597927.1.0.1.1?md5=Fvat50ZOuq-ltgVB3bEKfg&expires=1792348298"
-    ]
+    "URL_DIRECTA": "",
+    "URLS_DIRECTAS": []
   },
   {
     "CATEGORIA": "DISNEY_PIXAR",
@@ -3901,8 +3887,8 @@
     ],
     "METODO": "AUTOMATICO",
     "URLS_DIRECTAS": [
-      "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=0PYSmiBW3zK_pBzedRD2MPJDIK_J5YpsLdL2J2SF9V8&s=1792319511&e=43200&v=400290298&i=0.3&sp=0&r=e"
+      "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=H4I62VtNP9dc0I-vWU0OgTj_a8WVhuEr6CT7fcAnsIo&s=1792338450&e=43200&v=400451273&i=0.0&sp=0&r=e"
     ],
-    "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=0PYSmiBW3zK_pBzedRD2MPJDIK_J5YpsLdL2J2SF9V8&s=1792319511&e=43200&v=400290298&i=0.3&sp=0&r=e"
+    "URL_DIRECTA": "https://s10.vimeos.net/hls2/02/00003/fjxz3dlhoyqw_,n,h,.urlset/master.m3u8?t=H4I62VtNP9dc0I-vWU0OgTj_a8WVhuEr6CT7fcAnsIo&s=1792338450&e=43200&v=400451273&i=0.0&sp=0&r=e"
   }
 ]
